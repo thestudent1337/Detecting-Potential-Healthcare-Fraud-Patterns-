@@ -2,7 +2,7 @@
 
 ## 1) Prerequisites
 - Python 3.10+ recommended
-- Required files in this folder:
+- Required MIMIC-III files in this folder:
   - `DIAGNOSES_ICD.csv.gz`
   - `D_ICD_DIAGNOSES.csv.gz`
   - `NOTEEVENTS.csv.gz`
